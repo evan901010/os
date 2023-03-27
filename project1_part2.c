@@ -2,7 +2,7 @@
 #include <linux/module.h>
 #include <linux/kernel.h>
 #include <linux/list.h>
-
+#include<linux/slab.h>
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Project1_Part2");
 MODULE_DESCRIPTION("A simple example Linux module.");
