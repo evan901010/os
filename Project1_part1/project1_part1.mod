@@ -1,0 +1,2 @@
+/home/test/Desktop/HW1_project1/project1_part1.o
+
